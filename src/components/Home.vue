@@ -115,7 +115,7 @@
         <div class="container  rutina">
             <div class="row">
                 <div class="col-xs-12 col-lg-4">
-                    <img src="../assets/images/rutina.png" alt="">
+                    <img src="../assets/images/ofertas.png" alt="">
                 </div>
                 <div class="col-xs-12 col-lg-8">
                     <div class="titulo">
